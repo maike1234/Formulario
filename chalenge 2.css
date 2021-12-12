@@ -1,0 +1,133 @@
+legend {
+    color: black;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+form {
+    background-color: tomato;
+    padding-left: 550px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    border: 8px solid white;
+    margin: 100px 600px 0 400px;
+    display: block;
+}
+
+body {
+    background-color: black;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+#part0 {
+    margin-top: 20px;
+    margin-bottom: 0%;
+}
+
+input {
+    border: 4px solid black;
+    border-radius: 5px;
+}
+
+#biografia {
+    border: 4px solid black;
+    border-radius: 5px;
+}
+
+#file {
+    border: 0px;
+}
+
+#par1 {
+    margin: 15px 0;
+    margin-bottom: 0%;
+}
+
+#input-2 {
+    margin-bottom: 15;
+}
+
+#part2 {
+    margin-top: 15px;
+    margin-bottom: 0%;
+}
+
+#part3 {
+    margin-top: 15px;
+    margin-bottom: 0%;
+}
+
+#part4 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part5 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part6 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part7 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part8 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part9 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part10 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part11 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+}
+
+#part12 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: #363636;
+    color: white;
+    font-size: 19px;
+}
+
+#part12:hover {
+    transform: scale(1.1);
+}
+
+#part13 {
+    margin-top: 17px;
+    margin-bottom: 0%;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: #363636;
+    color: white;
+    font-size: 19px;
+    margin-left: 10px;
+    transition: transform 200ms linear;
+}
+
+#part13:hover {
+    transform: scale(1.1);
+}
